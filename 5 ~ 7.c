@@ -4,7 +4,7 @@
 int main()
 {
 	float a,b,calc,op; //Declara variavel
-	printf("Escolha um operador: \n"); // \n para qubra de linha
+	printf("Escolha um operador: \n"); // \n para quebra de linha
 	printf(" 1 - Soma \n 2 - Subtração \n 3 - Divisão \n 4 - Multiplicação \n");
 	scanf("%f",&op);
 	printf("Agora digite o primeiro numero: ");
